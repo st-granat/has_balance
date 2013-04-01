@@ -1,0 +1,5 @@
+ru:
+  has_balance:
+    balance: Баланс
+    cannot_be_million: не может быть больше миллиона рублей
+    currency: "руб."

@@ -1,0 +1,5 @@
+en:
+  has_balance:
+    balance: Balance
+    cannot_be_million: Can not more then one million
+    currency: "$"
